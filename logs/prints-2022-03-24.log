@@ -1,0 +1,7 @@
+10:15:47.092 [TestNG-tests-1] INFO  endtoend.frame.base - driver initialised
+10:16:32.120 [TestNG-tests-1] INFO  endtoend.frame.base - navigate to url
+10:16:36.499 [TestNG-tests-2] INFO  endtoend.frame.base - navi gated to validation page
+10:21:31.714 [TestNG-tests-1] INFO  endtoend.frame.base - driver initialised
+10:21:31.714 [TestNG-tests-2] INFO  endtoend.frame.base - validation page displayed
+10:21:58.812 [TestNG-tests-1] INFO  endtoend.frame.base - navigate to url
+10:22:14.253 [TestNG-tests-2] INFO  endtoend.frame.base - navi gated to validation page
